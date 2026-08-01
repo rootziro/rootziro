@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rootzir0 or 0sploit
+- 👋 Hi, I’m $sigkill
 - 👀 I’m interested in Cybersecurity with a focus on Network Pentesting and ethical hacking
 - 🌱 I’m currently on the path of jr pentester
 - 💞️ I’m looking to collaborate on many projects that come my way
